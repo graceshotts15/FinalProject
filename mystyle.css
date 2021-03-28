@@ -5,19 +5,10 @@ h1{
   font-family:serif;
   }
 p{
-  font-family: arial;
+  font-family: timesnewroman;
   font-size: 1em;
-  color: black
+  color: black;
 }
-li{
-  color:deeppink;
-  font-style:oblique;
-}
-.purple{
-  color: #778899;
-}
-.blue{
-  color: #B22222;
 }
 h3{
   color: #DA70D6;
