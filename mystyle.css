@@ -1,5 +1,5 @@
 h1{
-  color: #778899;
+  color: #4B0082;
   font-style:italic;
   font-size: 2em;
   font-family:serif;
@@ -18,4 +18,10 @@ li{
 }
 .blue{
   color: #B22222;
+}
+h3{
+  color: DA70D6;
+  font-style:italic;
+  font-size: 2em;
+  font-family:serif;
 }
