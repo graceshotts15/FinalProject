@@ -1,0 +1,24 @@
+h1{
+  color: blueviolet;
+  font-style:italic;
+  font-size: 2em;
+  font-family:serif;
+  }
+h2{
+  color: #5F9EA0;
+}
+p{
+  font-family: arial;
+  font-size: 1em;
+  color: black
+}
+li{
+  color:deeppink;
+  font-style:oblique;
+}
+.purple{
+  color: #778899;
+}
+.blue{
+  color: #B22222;
+}
